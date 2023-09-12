@@ -51,6 +51,9 @@ SAMPLE GAMEPLAY:
   
   Additionally, there is a can of fabreeze in the bathroom. Hold shift while holding this to spray around the space. 
 
+DOCUMENTATION:
+  Documentation of Suburban Teen Simulator's progress thus far can be found in the "Documentation" folder. 
+
 DISCLAIMER
 This is a complete work in progess. I ran into a huge road block when trying to create the mother character with her own behavior and patterns. I think I have to recreate this in Unity or something that's deeper than p5 to truly get it to where I want it to be. 
 
